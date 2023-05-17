@@ -5,10 +5,10 @@
 
 ## - Welcome message
 
-``http
+```http
   GET localhost:8080/
 
-``
+```
 #### Response
 "Login & Register server"
 
