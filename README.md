@@ -2,7 +2,7 @@
 
 
 ## API Reference
-https://documenter.getpostman.com/view/13747386/2s93kz4Ptg
+
 ## - Welcome message
 
 ```http
